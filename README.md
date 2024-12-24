@@ -54,7 +54,7 @@ Dự án này đã tham gia **Hội thi Khoa học Kỹ thuật Công Nghệ 202
 
 ---
 
-## Hình ảnh và video
+## Hình ảnh 
 | Mô hình xe tank | Ứng dụng điều khiển |
 |------------------|---------------------|
 | ![Mô hình xe tank](tank.png) | ![Ứng dụng điều khiển](app.jpg) |
