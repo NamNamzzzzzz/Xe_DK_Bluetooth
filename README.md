@@ -5,7 +5,7 @@ Dự án này được thực hiện với mục tiêu:
 - **Tìm hiểu giao thức giao tiếp HC-06** qua Bluetooth.
 - **Ứng dụng thực tế** bằng việc điều khiển mô hình xe tank thông qua Arduino Uno.
 
-Dự án này đã tham gia **Hội thi Khoa học Kỹ thuật Công Nghệ 2024** và đạt giải **"Ấn Tượng"** nhờ tính sáng tạo và hiệu quả trong hoạt động.
+Dự án này đã tham gia **Ngày Hội Khoa Kỹ thuật Công Nghệ 2024** và đạt giải **"Ấn Tượng"** nhờ tính sáng tạo trong việc thiết kế giao diện app dọc và ngoại hình xe tank ấn tượng.
 
 ---
 
